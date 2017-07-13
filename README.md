@@ -1,4 +1,4 @@
-# Slack Client
+# Quick Chat
 Usage: 
 
 `java MySlackBot -token <token> -getusers -channel <channel_name>`
